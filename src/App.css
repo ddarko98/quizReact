@@ -1,0 +1,18 @@
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; 
+
+}
+
+.form-check-label{
+  justify-content: center; /* Centers horizontally */
+  align-items: center; 
+}
+
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+}
+
